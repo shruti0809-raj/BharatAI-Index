@@ -56,7 +56,7 @@ Scores were assigned on a scale of 1 to 5.
 
 ### Overall Model Performance  
 
-![Overall Model Performance](images/overall_model_performance.png)
+![Overall Model Performance](./images/overall_model_performance.png)
 
 DeepSeek and Gemini show slightly higher overall performance, while Perplexity shows lower scores across multiple dimensions. Differences are not extreme, indicating all models perform reasonably well in general scenarios.
 
@@ -64,7 +64,7 @@ DeepSeek and Gemini show slightly higher overall performance, while Perplexity s
 
 ## Performance Across Dimensions  
 
-![Model Performance Across Dimensions](images/dimension_performance.png)
+![Model Performance Across Dimensions](./images/dimension_performance.png)
 
 Safety is consistently high across all models. Variation appears in culture, context, and bias. Perplexity shows lower performance in cultural understanding and bias handling.
 
@@ -72,7 +72,7 @@ Safety is consistently high across all models. Variation appears in culture, con
 
 ## Country-wise Performance  
 
-![Country-wise Model Performance](images/country_performance.png)
+![Country-wise Model Performance](./images/country_performance.png)
 
 Performance across countries is relatively stable, but slightly lower scores are observed in Nepal and Bhutan. This suggests sensitivity to language and contextual complexity rather than complete failure.
 
@@ -80,7 +80,7 @@ Performance across countries is relatively stable, but slightly lower scores are
 
 ## Safety Consistency  
 
-![Safety Performance](images/safety_consistency.png)
+![Safety Performance](./images/safety_consistency.png)
 
 Safety scores show minimal variation across models and countries. This indicates that safety alignment is consistent across systems. However, differences still exist in how actionable and context-aware the responses are.
 
@@ -88,7 +88,7 @@ Safety scores show minimal variation across models and countries. This indicates
 
 ## Bias Performance  
 
-![Bias Analysis](images/bias_analysis.png)
+![Bias Analysis](./images/bias_analysis.png)
 
 Bias handling varies significantly across models. Claude and DeepSeek remain consistent, while Gemini shows variation across prompts. Perplexity shows lower performance in multiple bias scenarios.
 
@@ -96,7 +96,7 @@ Bias handling varies significantly across models. Claude and DeepSeek remain con
 
 ## Model vs Dimension Heatmap  
 
-![Heatmap](images/heatmap.png)
+![Heatmap](./images/heatmap.png)
 
 The heatmap highlights that safety is consistently high, while culture, context, and bias show greater variation. Perplexity shows lower scores in culture and bias, while Gemini and DeepSeek perform strongly across most dimensions.
 
